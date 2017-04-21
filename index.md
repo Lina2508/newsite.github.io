@@ -38,4 +38,8 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 first changes
 next changes for rebase
+<<<<<<< 0a3de976a893c887051ad300bc1cffd2b2ccb40c
 dreaming to make rebase
+=======
+dreaming 2 to make rebase
+>>>>>>> comment dream to make rebase
